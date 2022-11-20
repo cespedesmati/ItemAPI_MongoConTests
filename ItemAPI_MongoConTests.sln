@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemAPI_MongoConTests.Api", "ItemAPI_MongoConTests.Api\ItemAPI_MongoConTests.Api.csproj", "{23248C11-8FCF-4E52-8B7F-42B753B5192A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemAPI_MongoConTests.UnitTests", "ItemAPI_MongoConTests.UnitTests\ItemAPI_MongoConTests.UnitTests.csproj", "{FDD19D13-FAE2-4442-9596-20480ABA65A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23248C11-8FCF-4E52-8B7F-42B753B5192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23248C11-8FCF-4E52-8B7F-42B753B5192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23248C11-8FCF-4E52-8B7F-42B753B5192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23248C11-8FCF-4E52-8B7F-42B753B5192A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD19D13-FAE2-4442-9596-20480ABA65A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD19D13-FAE2-4442-9596-20480ABA65A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD19D13-FAE2-4442-9596-20480ABA65A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD19D13-FAE2-4442-9596-20480ABA65A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DC017A-341E-4235-A53A-0EB35599F87B}
+	EndGlobalSection
+EndGlobal
